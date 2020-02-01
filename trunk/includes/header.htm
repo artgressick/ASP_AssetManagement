@@ -1,0 +1,100 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td height="3" bgcolor="#5b5b5b"><img src="images/5b5b5bdot.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#6699cc">
+	  <table width="800" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="150"><a href="default.asp"><img src="images/eamlogo.gif" alt="Asset Management" width="150" height="45" border="0"></a></td>
+          <td width="650" align="right" valign="bottom"> <table border="0" cellspacing="0" cellpadding="3">
+              <tr> 
+                <td align="right" nowrap><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Logged in as:&nbsp;<font color="#FFFF00"><%=session("chrFirst") & " " & session("chrLast")%></font></font></td>
+              </tr>
+              <tr> 
+                <td align="right" nowrap><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">User Level:&nbsp;<font color="#FFFF00"><%=session("chrAccess")%>&nbsp;<font color="#FFFFFF">of</font>&nbsp;NA</font></font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000">
+	  <table width="800" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="150" height="20" align="center"><font color="#FFFF00" size="1" face="Arial, Helvetica, sans-serif"><%=FormatDateTime(Date,vbLongDate)%></font></td>
+          <td width="1" bgcolor="#6699cc" height="20"><img src="images/vertical6699cc20px.gif" width="1" height="20"></td>
+<%
+	if buttonswitch = 1 then
+%>
+          <td width="60" height="20"><a href="default.asp"><img src="images/home_gray.gif" alt="Home" width="60" height="20" border="0"></a></td>
+<%
+	else
+%>
+          <td width="60" height="20"><a href="default.asp"><img src="images/home_black.gif" alt="Home" width="60" height="20" border="0"></a></td>
+<%
+	end if
+%>
+          <td width="1" bgcolor="#6699cc" height="20"><img src="images/vertical6699cc20px.gif" width="1" height="20"></td>
+<%
+	if buttonswitch = 2 then
+%>
+          <td width="65" height="20"><a href="orders.asp"><img src="images/orders_gray.gif" alt="Orders" width="65" height="20" border="0"></a></td>
+<%
+	else
+%>
+          <td width="65" height="20"><a href="orders.asp"><img src="images/orders_black.gif" alt="Orders" width="65" height="20" border="0"></a></td>
+<%
+	end if
+%>
+          <td width="1" bgcolor="#6699cc" height="20"><img src="images/vertical6699cc20px.gif" width="1" height="20"></td>
+<%
+	if buttonswitch = 3 then
+%>
+          <td width="75" height="20"><a href="inventory.asp"><img src="images/inventory_gray.gif" alt="Inventory" width="75" height="20" border="0"></a></td>
+<%
+	else
+%>
+          <td width="75" height="20"><a href="inventory.asp"><img src="images/inventory_black.gif" alt="Inventory" width="75" height="20" border="0"></a></td>
+<%
+	end if
+%>
+          <td width="1" bgcolor="#6699cc" height="20"><img src="images/vertical6699cc20px.gif" width="1" height="20"></td>
+<%
+	if buttonswitch = 4 then
+%>
+          <td width="65" height="20"><a href="reports.asp"><img src="images/reports_gray.gif" alt="Reports" width="65" height="20" border="0"></a></td>
+<%
+	else
+%>
+          <td width="65" height="20"><a href="reports.asp"><img src="images/reports_black.gif" alt="Reports" width="65" height="20" border="0"></a></td>
+<%
+	end if
+%>
+          <td width="1" bgcolor="#6699cc" height="20"><img src="images/vertical6699cc20px.gif" width="1" height="20"></td>
+<%
+	if buttonswitch = 5 then
+%>
+          <td width="65" height="20"><a href="settings.asp"><img src="images/settings_gray.gif" alt="Settings" width="65" height="20" border="0"></a></td>
+<%
+	else
+%>
+          <td width="65" height="20"><a href="settings.asp"><img src="images/settings_black.gif" alt="Settings" width="65" height="20" border="0"></a></td>
+<%
+	end if
+%>
+          <td width="1" bgcolor="#6699cc" height="20"><img src="images/vertical6699cc20px.gif" width="1" height="20"></td>
+          <td width="317" height="20" align="right"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Questions? 800-492-2448&nbsp;</font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td height="6" bgcolor="#f5f5f5"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td height="1" bgcolor="#5b5b5b"><img src="images/f5f5f5dot.gif" width="149" height="1"></td>
+  </tr>
+</table>

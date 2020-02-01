@@ -1,0 +1,82 @@
+		<table width="175" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+            <td height="20"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+            <td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Common Tasks</strong></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	if session("idAccess") < "Q" then
+%>
+          <tr> 
+            <td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+			<td height="1" bgcolor="#5b5b5b"><img src="images/5b5b5bdot.gif" width="1" height="1"></td>
+			<td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="addorderintro.asp" class="hyperlink" title="click here to add a new order.">Add New Order</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="addcartintro.asp" class="hyperlink" title="click here to add a new cart.">Add New Cart</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+	if session("idAccess") < "P" then
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="approvecarts.asp" class="hyperlink" title="click here to approve carts.">Approve Carts</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="cartnotes.asp" class="hyperlink" title="click here to add notes to an existing cart.">Add Notes to Cart</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="40"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Other Tasks</strong></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+			<td bgcolor="#5b5b5b"><img src="images/5b5b5bdot.gif" width="1" height="1"></td>
+			<td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+          </tr>
+<%
+	if session("idAccess") = "A" then
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="masquerade.asp" class="hyperlink" title="click here to change to another user.">Masquerade User</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+	if session("idAccess") < "O" then
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="blog/default.asp" class="hyperlink" title="click here to add information.">AM Blog</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+%>
+        </table>

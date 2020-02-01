@@ -1,0 +1,30 @@
+<html><body>
+<table border="1">
+<tr>
+<th nowrap>Cart</th>
+<th nowrap>Customer</th>
+<th nowrap>Urgency</th>
+<th nowrap>Current Status</th>
+<th nowrap>Ship Date</th>
+<th nowrap>Arrival Date</th>
+<th nowrap>Assets</th>
+</tr>
+<tr>
+<td align="right">GV Expo 2004 Techit Gear</td>
+<td align="right">techIT Solutions</td>
+<td align="right">Normal</td>
+<td align="right">New</td>
+<td align="right">9/30/2004</td>
+<td align="right">10/4/2004</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td align="right">GV Expo - Corporate Gear</td>
+<td align="right">Apple Corporate Events</td>
+<td align="right">Normal</td>
+<td align="right">Awaiting Approval</td>
+<td align="right">9/30/2004</td>
+<td align="right">10/4/2004</td>
+<td align="right">50</td>
+</tr>
+</table></body></html>

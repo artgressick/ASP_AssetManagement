@@ -1,0 +1,130 @@
+		<table width="175" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="10">&nbsp;</td>
+            <td height="20"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+            <td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Common Tasks</strong></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+			<td height="1" bgcolor="#5b5b5b"><img src="images/5b5b5bdot.gif" width="1" height="1"></td>
+			<td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+          </tr>
+<%
+	if Session("idAccess") <> "Q" then
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="addorderintro.asp" class="hyperlink" title="click here to add a new order.">Add New Order</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="addcartintro.asp" class="hyperlink" title="click here to add a new cart.">Add New Cart</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+	if session("idAccess") < "P" then
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="approvecarts.asp" class="hyperlink" title="click here to approve carts.">Approve Cart</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+	if session("idAccess") = "A" or session("idAccess") = "O" then
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="moveassets.asp" class="hyperlink" title="click here to move assets from show to show.">Move Assets</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+	if session("idAccess") = "A" then
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="completedorders.asp" class="hyperlink" title="click here to Close Completed Orders.">Close an Order</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+	if session("idAccess") < "C" then
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="cartnotes.asp" class="hyperlink" title="click here to add notes to an existing cart.">Add Notes to Cart</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+%>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="40"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Other Tasks</strong></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+			<td bgcolor="#5b5b5b"><img src="images/5b5b5bdot.gif" width="1" height="1"></td>
+			<td width="10"><img src="images/f5f5f5dot.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="savedaddresses.asp" class="hyperlink" title="click here to view your Saved Addresses.">My Saved Addresses</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="shippingcarriers.asp" class="hyperlink" title="click here to view your Saved Carriers.">My Shipping Carriers</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="accountteam.asp" class="hyperlink" title="click here to view your Account Team.">My Account Team</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	if session("idAccess") < "M" then
+%>
+		  <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="loadcheckout.asp" class="hyperlink" title="click here to Check Out Assets.">Check Out Assets</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="staged.asp" class="hyperlink" title="click here to Move Staged Carts to Shipping.">Ship Staged Carts</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+		  <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="loadcheckinturn.asp" class="hyperlink" title="click here to Check In Assets.">Check In/Turn Assets</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+		  <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="loadcheckin.asp" class="hyperlink" title="click here to Check In Assets.">Check In Assets</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+		  <tr> 
+            <td width="10">&nbsp;</td>
+			<td height="20"><font size="2" face="Arial, Helvetica, sans-serif"><a href="loadturn.asp" class="hyperlink" title="click here to Turn Assets.">Turn Assets</a></font></td>
+			<td width="10">&nbsp;</td>
+          </tr>
+<%
+	end if
+%>
+        </table>

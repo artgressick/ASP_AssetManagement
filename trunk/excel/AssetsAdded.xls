@@ -1,0 +1,52 @@
+<html><body>
+<table border="1">
+<tr>
+<th nowrap>Asset Numebr</th>
+<th nowrap>Serial Number</th>
+<th nowrap>Customer</th>
+<th nowrap>Item</th>
+<th nowrap>Date Added</th>
+</tr>
+<tr>
+<td align="right">021-392-03617</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications</td>
+<td align="right">Power Adapter</td>
+<td align="right">4/29/2005</td>
+</tr>
+<tr>
+<td align="right">021-392-03618</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications</td>
+<td align="right">Power Adapter</td>
+<td align="right">4/29/2005</td>
+</tr>
+<tr>
+<td align="right">021-392-03619</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications</td>
+<td align="right">Power Adapter</td>
+<td align="right">4/29/2005</td>
+</tr>
+<tr>
+<td align="right">021-392-03620</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications</td>
+<td align="right">Power Adapter</td>
+<td align="right">4/29/2005</td>
+</tr>
+<tr>
+<td align="right">021-392-03621</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications</td>
+<td align="right">Power Adapter</td>
+<td align="right">4/29/2005</td>
+</tr>
+<tr>
+<td align="right">021-392-03622</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications</td>
+<td align="right">Power Adapter</td>
+<td align="right">4/29/2005</td>
+</tr>
+</table></body></html>

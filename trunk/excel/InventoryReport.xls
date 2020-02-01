@@ -1,0 +1,354 @@
+<html><body>
+<table border="1">
+<tr>
+<th nowrap>Asset Number</th>
+<th nowrap>Serial Number</th>
+<th nowrap>Customer</th>
+<th nowrap>Description</th>
+<th nowrap>Warehouse</th>
+<th nowrap>Order/Location</th>
+<th nowrap>Owner</th>
+</tr>
+<tr>
+<td align="right">022-184-01150</td>
+<td align="right">SW84230G2QRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-184-01157</td>
+<td align="right">SW84230F1QRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-184-01158</td>
+<td align="right">SW84230DKQRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-184-01159</td>
+<td align="right">SW84230ERQRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-184-01160</td>
+<td align="right">SW84230EEQRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-184-01168</td>
+<td align="right">SW84230DGQRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-184-01169</td>
+<td align="right">SW84230FFQRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-184-01170</td>
+<td align="right">SW84230FLQRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-184-01171</td>
+<td align="right">SW84230E1QRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple PowerBook 17 - 1.5 Ghz PowerPC G4, 1 GB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03378</td>
+<td align="right">V740323XP22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03379</td>
+<td align="right">V740325SP22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03380</td>
+<td align="right">V7403205P22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03381</td>
+<td align="right">V7404B8XP22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03382</td>
+<td align="right">V740325HP22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03383</td>
+<td align="right">V740329JP22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03384</td>
+<td align="right">V7403240P22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03385</td>
+<td align="right">V740324XP22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03386</td>
+<td align="right">V7403256P22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03387</td>
+<td align="right">V740324RP22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03388</td>
+<td align="right">V740323RP22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-374-03389</td>
+<td align="right">V7404AT3P22</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple Powerbook 17 - 1.33 Ghz G4, 512 MB PC2700 DDR SDRAM - Superdrive</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-375-03391</td>
+<td align="right">W84230D5QRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">APPLE Powerbook 17 - 1.5 Ghz, 1 GB DDR 333 SDRAM - </td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-375-03395</td>
+<td align="right">W84230D8QRU</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">APPLE Powerbook 17 - 1.5 Ghz, 1 GB DDR 333 SDRAM - </td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-191-01218</td>
+<td align="right">S2A34719BNNF</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Apple 17 Inch Cinema Display</td>
+<td align="right">Livermore</td>
+<td align="right">In Warehouse</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-122-03374</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Pelican 1620 (6-17</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-122-03375</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Pelican 1620 (6-17</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-122-03376</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Pelican 1620 (6-17</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-122-03377</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">Pelican 1620 (6-17</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03364</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03365</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03366</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03367</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03368</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03369</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03370</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03371</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03372</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+<tr>
+<td align="right">022-205-03373</td>
+<td align="right">N/A</td>
+<td align="right">Apple Pro Applications Europe</td>
+<td align="right">D&D Laptop Security Kits (Black)</td>
+<td align="right">Livermore</td>
+<td align="right">Jean-Luc Bouchard - (TRANSFER FROM EPS/APS)</td>
+<td align="right">Pool</td>
+</tr>
+</table></body></html>

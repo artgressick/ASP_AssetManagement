@@ -1,0 +1,11 @@
+A:hover {text-decoration: underline}
+
+.hyperlink {
+	text-decoration: none;
+	color: #0000FF;
+
+}
+.titlelink {
+	color: #ffffff;
+	text-decoration: none;
+}
